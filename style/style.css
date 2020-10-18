@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin-top: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-image: url("../img/images/header-fon.png");
+}
+
+.container {
+    margin: 0 auto;
+    width: 956px;
+}
+
+
+main {
+    height: 100vh;
+    background-image: url("../img/images/body-fon.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.title {
+    padding-top: 50px;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+    color: #ebc738;
+    font-size: 27px;
+}
+
+.text-wrap {
+    background-color: #fff;
+    padding: 22px 20px;
+    margin-bottom: 20px;
+}
+
+.text {
+    color: #535353;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.main-bottom .container {
+text-align: center;
+}
+
+.main-bottom img {
+    margin: 0 auto;
+    display: block;
+}
+
+.footer {
+    padding-top: 104px;
+    padding-bottom: 88px;
+    background-color: #323232;
+    border-top: 3px solid #bbdb8c;
+}
+
+.footer-container {
+    text-align: center;
+}
+
+.footer-container img {
+    margin-right: 15px;
+    margin-left: 15px;
+}
